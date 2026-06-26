@@ -116,7 +116,7 @@ It provides insights into sales performance, customer distribution, product dema
 
 ## 📸 صورة من الداشبورد
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](saudi.png)
 
 ---
 
