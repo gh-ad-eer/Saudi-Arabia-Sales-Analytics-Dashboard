@@ -27,7 +27,7 @@ It provides insights into sales performance, customer distribution, product dema
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](saudi.png)
 
 ---
 
